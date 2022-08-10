@@ -3,7 +3,7 @@
 <h3 align="center">A passionate data science learner</h3>
 </br>
 </br>
-<img align="right" alt="Cert" width="200" height="" src="https://github.com/imjlstem/imjlstem/blob/77b9b9cd7f31501bb601b5194e6e056701f0a3ad/ibm-certified-associate-developer-quantum-computation-using-qiskit-v0-2x.png?raw=true">
+<a href="https://www.credly.com/badges/930ce7f7-0f6d-4d8f-8895-0c8c54d00302/print"><img align="right" alt="Cert" width="200" src="https://github.com/imjlstem/imjlstem/blob/77b9b9cd7f31501bb601b5194e6e056701f0a3ad/ibm-certified-associate-developer-quantum-computation-using-qiskit-v0-2x.png?raw=true">
 
 [![LinkedIn](https://img.shields.io/badge/-Jordan_H-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordanledezma-stem/)
 [![Mail](https://img.shields.io/badge/-Jordan_H-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jledezmarami123@gmail.com)
