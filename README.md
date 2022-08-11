@@ -70,14 +70,7 @@ I'm looking to collaborate with other projects
 <summary>
   More stuff about me 🔥
 </summary>
-
-<br >
-
-![HTB](https://img.shields.io/badge/HTB-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-
-![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+</br>
 
 #### What am I looking for?
 
@@ -86,6 +79,15 @@ become in a Data Scientist, in a Physics Scientist, or in Quantum Researcher, th
 why I want, and I hope it’ll be possible, I want to handle and specialize what I believe
 to be the four most relevant and largest areas of strength in computer science and
 information technology, AI, Quantum, Cloud and Cybersecurity.*
+</br>
+</br>
+
+![HTB](https://img.shields.io/badge/HTB-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
 </br>
 </br>
 </br>
