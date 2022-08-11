@@ -7,7 +7,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Jordan_H-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordanledezma-stem/)
 [![Mail](https://img.shields.io/badge/-Jordan_H-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jledezmarami123@gmail.com)
-[![Medium](https://img.shields.io/badge/-Jordan_H-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ImJL_STEM)
+[![Medium](https://img.shields.io/badge/-Writing_Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ImJL_STEM)
+[![Website](https://img.shields.io/badge/-Portfolio-12100E?style=for-the-badge&logo=appveyor&logoColor=white)]()
 </br>
 </br>
 ```
@@ -29,12 +30,12 @@ I'm looking to collaborate with other projects
 </br>
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=blue)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=red)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=yellow)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash&logoColor=greenlight)
 </br>
 </br>
 
@@ -48,7 +49,11 @@ I'm looking to collaborate with other projects
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NEO4j]( 	https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
+![NEO4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 </br>
 </br>
 </br>
@@ -68,7 +73,10 @@ I'm looking to collaborate with other projects
 
 <br >
 
-
+![HTB](https://img.shields.io/badge/HTB-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 #### What am I looking for?
 
