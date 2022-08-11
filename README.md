@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Jordan_H-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordanledezma-stem/)
 [![Mail](https://img.shields.io/badge/-Jordan_H-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jledezmarami123@gmail.com)
-![Medium](https://img.shields.io/badge/-Jordan_H-12100E?style=for-the-badge&logo=medium&logoColor=white)
+[![Medium](https://img.shields.io/badge/-Jordan_H-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ImJL_STEM)
 </br>
 </br>
 ```
