@@ -74,7 +74,7 @@ I'm looking to collaborate with other projects
 
 #### What am I looking for?
 
-*I like technology field and all related with that, but I wouldn’t like to lose something interesting, I want to
+*I like technology field and all related with that, but I wouldn’t want to miss something interesting, I want to
 become in a Data Scientist, in a Physics Scientist, or in Quantum Researcher, that’s
 why I want, and I hope it’ll be possible, I want to handle and specialize what I believe
 to be the four most relevant and largest areas of strength in computer science and
