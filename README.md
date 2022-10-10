@@ -14,7 +14,7 @@
 ```
 I'm looking to collaborate with other projects
 ```
-- 📡 I'm currently working on some **Data Science projects**
+- 📡 I'm currently working on some **Data Science** projects
 
 - 💡 I'm currently learning **AI/ML**
 
@@ -35,6 +35,7 @@ I'm looking to collaborate with other projects
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB)
+![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=276DC3)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash&logoColor=greenlight)
 </br>
 </br>
@@ -54,6 +55,7 @@ I'm looking to collaborate with other projects
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 </br>
 </br>
 </br>
@@ -62,6 +64,8 @@ I'm looking to collaborate with other projects
 - 💼 [My Resume/CV](https://drive.google.com/file/d/1A5ny6dgDDHo0E86HlRRbdAsVWgp4dLHx/view)
 - 📩 jledezmarami123@gmail.com
 
+     [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://faq.whatsapp.com/452366545421244/?helpref=uf_share/wa.me/50664436666?text=Let`s%20work%20together%20on%20a%20project!)
+  
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imjlstem&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 </br>
