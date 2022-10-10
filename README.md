@@ -61,10 +61,9 @@ I'm looking to collaborate with other projects
 </br>
 
 ### Business
+[![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50664436666?text=Let`s%20work%20together%20on%20a%20project!)
 - 💼 [My Resume/CV](https://drive.google.com/file/d/1A5ny6dgDDHo0E86HlRRbdAsVWgp4dLHx/view)
 - 📩 jledezmarami123@gmail.com
-
-     [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://faq.whatsapp.com/452366545421244/?helpref=uf_share/wa.me/50664436666?text=Let`s%20work%20together%20on%20a%20project!)
   
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imjlstem&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
